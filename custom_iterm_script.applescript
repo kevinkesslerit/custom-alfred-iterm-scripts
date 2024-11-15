@@ -2,10 +2,10 @@
 -- https://github.com/vitorgalvao/custom-alfred-iterm-scripts
 
 -- Set this property to true to always open in a new window
-property open_in_new_window : false
+property open_in_new_window : true
 
 -- Set this property to false to reuse current tab
-property open_in_new_tab : true
+property open_in_new_tab : false
 
 -- Set this property to true if iTerm is configured to launch without opening a new window
 property iterm_opens_quietly : false
